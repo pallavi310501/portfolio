@@ -9,7 +9,7 @@ function App() {
         <h1>Welcome to My Portfolio</h1>
         <h2>Hi, I'm Pallavi Yellisetty <span role="img" aria-label="wave">👋</span></h2>
         <div className="profile-picture">
-          <img src="https://imgur.com/a/0MKq4bE" alt="PAllavi Yellisetty" />
+          <img src="/images/my-picture.jpg" alt="PAllavi Yellisetty" />
         </div>
         <div className="intro">
           <h3>About Me</h3>
